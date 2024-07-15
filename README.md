@@ -65,7 +65,7 @@ mockingbird-cli tinybird --datasource=transactions --token=[PASTE_YOUR_TOKEN_FRO
 
 ## Authors
 
-- [Joe Karlsson](https://github.com/sergewilfried)
+- [Serge Wilfried](https://github.com/sergewilfried)
 
 ---
 
